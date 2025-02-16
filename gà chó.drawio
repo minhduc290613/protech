@@ -13,14 +13,65 @@
             <mxPoint x="320" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-6" value="tính gà và chó" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-7" value="SỐ GÀ SỐ CHÓ" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="324" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-7" value="SỐ chân gà= 2&amp;nbsp;&lt;div&gt;&amp;nbsp;SỐ chân CHÓ=4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="260" width="116" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.454;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="s2ZmmZkqdj5AWuVZNPnq-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369.36400000000003" y="301.02" as="sourcePoint" />
+            <mxPoint x="370" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-21" value="số chân = 100" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-23" value="gà = gà*1&lt;div&gt;chó =36*gà&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.908;entryY=0.211;entryDx=0;entryDy=0;exitX=0.589;exitY=0.061;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="s2ZmmZkqdj5AWuVZNPnq-23" target="s2ZmmZkqdj5AWuVZNPnq-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="620" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2ZmmZkqdj5AWuVZNPnq-21" target="s2ZmmZkqdj5AWuVZNPnq-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="620" as="sourcePoint" />
+            <mxPoint x="740" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2ZmmZkqdj5AWuVZNPnq-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="620" as="sourcePoint" />
+            <mxPoint x="370" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-29" value="gà = gà*1&lt;div&gt;chó =35*gà&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-33" value="SỐ chân gà= 2&amp;nbsp;&lt;div&gt;&amp;nbsp;SỐ chân CHÓ=4&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.742;exitY=0.163;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2ZmmZkqdj5AWuVZNPnq-21" target="s2ZmmZkqdj5AWuVZNPnq-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="310" as="sourcePoint" />
+            <mxPoint x="600" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.937;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2ZmmZkqdj5AWuVZNPnq-29" target="s2ZmmZkqdj5AWuVZNPnq-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="300" as="sourcePoint" />
+            <mxPoint x="620" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-37" value="gà = 22&lt;div&gt;chó= 14&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
