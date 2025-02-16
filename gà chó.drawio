@@ -19,12 +19,6 @@
         <mxCell id="s2ZmmZkqdj5AWuVZNPnq-7" value="SỐ chân gà= 2&amp;nbsp;&lt;div&gt;&amp;nbsp;SỐ chân CHÓ=4&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="324" y="260" width="116" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s2ZmmZkqdj5AWuVZNPnq-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.454;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="s2ZmmZkqdj5AWuVZNPnq-21">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369.36400000000003" y="301.02" as="sourcePoint" />
-            <mxPoint x="370" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s2ZmmZkqdj5AWuVZNPnq-21" value="số chân = 100" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="360" width="80" height="80" as="geometry" />
         </mxCell>
